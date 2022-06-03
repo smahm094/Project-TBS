@@ -1,9 +1,9 @@
-#### *Project - Treasury Board Secretariat*
-#### *Improving text summarization efficiency by focusing on Key labor relation terms and training the model with LR specific dataset.*
+#### *Project - Treasury Board Secretariat* ###
+#### *Improving text summarization efficiency by focusing on Key labor relation terms and training the model with LR specific dataset.* ###
 
 ---
 
-# Key Objectives:
+* Key Objectives:
 * Research on labor relation specific datasets for training Summarization model
 * Build the training dataset if required
 * Modify the existing summarization model or build a new abstractive model
