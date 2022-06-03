@@ -8,4 +8,6 @@ Some of my tasks are:
 • Build the training dataset if required
 • Modify the existing summarization model or build a new abstractive model
 • Evaluate the performance of the model
-• Assist the TBS team to review the efficiency and establish the final model. 
+• Assist the TBS team to review the efficiency of the model and to establish the final model 
+
+
